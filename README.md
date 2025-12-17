@@ -7,8 +7,6 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
-
 ## 📌 About Me
 Software engineer, self-taught, curious, pseudo-cinephile and fitness enthusiast, passionate about music, coffee, wine, music, cats, and technology. Seeking knowledge for the simple pleasure of research, I enjoy appreciating the small details and enjoying each stage of my journey. Whenever possible, I strive to solve problems and add value to society through the latest technological trends. I value the challenges I face and teamwork to achieve the expected results and evolve whenever possible.
 
